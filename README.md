@@ -32,7 +32,7 @@ The project uses the `Student_Performance.csv` dataset, which contains various m
   - Train-test split validation
 
 ## Project Structure
-- `student_lec15.py`: Main script containing data processing, model building, and visualization
+- `student_analysis..py`: Main script containing data processing, model building, and visualization
 - `Student_Performance.csv`: Dataset with student metrics
 - `README.md`: Project documentation
 
